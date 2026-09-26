@@ -1,0 +1,13 @@
+{
+  "id": "ejemplo-parte-medico",
+  "placas": [
+    "01_portada.png",
+    "02_lista.png",
+    "03_lista.png",
+    "04_lista.png",
+    "05_cita.png",
+    "06_lectura.png"
+  ],
+  "reel": "reel.mp4",
+  "reel_tiktok": "reel_tiktok.mp4"
+}
